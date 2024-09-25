@@ -1,1 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
 9.0.0-rc.1.24431.7/dotnet-sdk-9.0.100-rc.1.24452.12-linux-s390x.tar.gz filter=lfs diff=lfs merge=lfs -text
